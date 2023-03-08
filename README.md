@@ -15,5 +15,7 @@ https://www.postman.com/downloads/
 <li>silahkan tulis di terminal <b>php artisan migrate:fresh</b> untuk membuat isian tabel database</li>
 <li>berikutnya nyalakan server laravel dengan mengetik <b>php artisan serve</b></li>
 <li>kemudian buka postman dan tf 150k ke 08************</li>
+<li>cara menggunakan postman cek <b>https://youtu.be/uxkG6uyQSyA</b> dari menit 5:35</li>
 </ul>
+<span>untuk url di postman bisa langsung ketik <b>localhost:8000</b> tidak usah pakai <b>https</b></span>
 
